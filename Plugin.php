@@ -23,7 +23,7 @@ class TestPlugin extends \Enact\Plugin {
 
 
     public function version(){
-        return 1.01;
+        return 1.03;
     }//version
 
 
